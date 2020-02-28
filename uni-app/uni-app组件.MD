@@ -159,7 +159,7 @@ Vue.component('async-example', function (resolve, reject) {
    1. 插件市场中下载组件包(https://ext.dcloud.net.cn/plugin?id=865)
    2. 解压后将goods-nav目录放置在component目录下
    3. 引入插件、注册、使用，与常规vue开发一模一样  
-   ```
+```
    <template>
 	<view>
 		<view class="goods-carts">
@@ -199,7 +199,7 @@ Vue.component('async-example', function (resolve, reject) {
 		}
 	}
 </script>
-    ```  
+```  
 使用方式2： 与方式1一样，但使用组件时与小程序一样在pages.json中引入组件  
 ```
 {
