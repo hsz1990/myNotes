@@ -22,10 +22,11 @@
 					}
 				},
 				{
-					"path": "vantBtn",
+					"path": "testWeixin",
 					"style": {
 					  	"usingComponents": {
-					    	"van-button": "/wxcomponents/vant/button/index"
+					    	"van-button": "/wxcomponents/vant/button/index",
+					    	"mp-searchbar": "/wxcomponents/weui-miniprogram/searchbar/searchbar"
 					  	},
 					  	"navigationBarTitleText": "微信自定义组件示例"
 					}

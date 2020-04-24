@@ -19,7 +19,7 @@
 					},
 					{
 						name: "test-vant",
-						url: "demo2/vantBtn"
+						url: "demo2/testWeixin"
 					}
 				]
 			};
